@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "grei-eon-studio.bar",
+  "name": "OmaBar",
+  "version": "1.0.0",
+  "author": "grei-eon-studio",
+  "license": "MIT",
+  "description": "Full-screen-friendly Omarchy bar fork — Bottom layer + Ignore exclusion so tiled and maximized windows cover the bar. Cloned from omarchy.bar.",
+  "kinds": [
+    "bar"
+  ],
+  "entryPoints": {
+    "bar": "Bar.qml"
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.bar"
+  }
+}
